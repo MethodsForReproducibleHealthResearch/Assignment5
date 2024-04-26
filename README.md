@@ -1,3 +1,3 @@
-# Assignment #5 Repository.
+# Assignment #5 Repository
 
-This repository includes the `Credentials` data for Assignment #5.
+This repository includes the csv `Credentials` data in the `raw-data` folder.
